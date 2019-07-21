@@ -22,3 +22,4 @@
 - To fix this, go to your terminal and type `git pull`. This will get the changes from the github repository and apply them to your local repo.
 
 khkgjyy
+kuytyykurr
